@@ -1,0 +1,4 @@
+#Fri Oct 19 16:21:39 EET 2018
+base.0=E\:\\Courses\\Android Studio\\BeHappy\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\58
+path.0=classes.dex
+renamed.0=classes.dex
